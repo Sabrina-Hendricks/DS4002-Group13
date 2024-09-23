@@ -9,6 +9,7 @@
 - **Data Folder**:
   - `Womens Clothing E-Commerce Reviews.csv`: Our original dataset, downloaded from Kaggle and uploaded to GitHub
   - `Cleaned_Data.csv`: Our cleaned data, created from the `MI3_Cleaning.ipynb` and used for the rest of the EDA and analysis
+  - `DataAppendix.pdf`: Description of the data used
 
 - **Scripts Folder**: Contains scripts for EDA, data cleaning, and analysis
   - `MI2_Cleaning.ipynb`: Data cleaning script, creates `Cleaned_Data.csv`
