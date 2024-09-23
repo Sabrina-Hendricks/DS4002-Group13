@@ -19,7 +19,11 @@
   - `MI3_Analysis_Positive.ipynb`: Analysis on positive sentiment score data points
 
 - **Output Folder**:
-  - (Empty for now)
+  - `MI2_EDA`: Folder containing pertinant charts from EDA
+  - `MI3`: Folder containing pertinant charts from analysis
+  -    `AllSentimentScores` : 
+  -    `NegativeScores`
+  -    `PositiveScores` 
 
 ## Reproduction Information
 
