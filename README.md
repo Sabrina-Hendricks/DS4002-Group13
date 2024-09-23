@@ -11,7 +11,8 @@
   - `Cleaned_Data.csv`: Our cleaned data, created from the `MI3_Cleaning.ipynb` and used for the rest of the EDA and analysis
 
 - **Scripts Folder**: Contains scripts for EDA, data cleaning, and analysis
-  - `MI3_Cleaning.ipynb`: Data cleaning script, creates `Cleaned_Data.csv`
+  - `MI2_Cleaning.ipynb`: Data cleaning script, creates `Cleaned_Data.csv`
+  - `MI2_EDA`: Exploratory data analysis on our cleaned dataset
   - `MI3_Analysis_AllSentimentScores.ipynb`: Analysis on all sentiment score data points
   - `MI3_Analysis_Negative.ipynb`: Analysis on negative sentiment score data points
   - `MI3_Analysis_Positive.ipynb`: Analysis on positive sentiment score data points
