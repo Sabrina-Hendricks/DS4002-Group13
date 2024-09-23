@@ -41,3 +41,7 @@
 
 ## Reproduction Information
 
+1. **Data Gathering**: We got our data from kaggle - [Women's E-Commerce Clothing Reviews Dataset](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews) . However, we have uploaded it to this GitHub repository under the _Data Folder_. The scripts include fetching the data from our GitHub repo.
+2. **Data Cleaning**: To reproduce our cleaned dataset, run the `MI2_Cleaning.ipynb` script. We downloaded the final dataframe and uploaded it to GitHub. The future scripts will fetch the cleaned data set from the _Data Folder_.
+3. **Exploratory Data Analysis**: To explore the data and gather initial insights to refine the analysis plan, run the `MI2_EDA.ipynb` script under the _Scripts Folder_.
+4. **Analysis**: To conduct analysis on the data, there are 3 main files to run: `MI3_Analysis_AllSentimentScores.ipynb`, `MI3_Analysis_Negative.ipynb`, and `MI3_Analysis_Positive.ipynb`. You can find all of these files in the _Scripts Folder_. We decided to do analysis on the negative and positive subsets to account for most of the reviews being positive - we still wanted to explore negative sentiment scores without any skewing. 
