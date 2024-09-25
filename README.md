@@ -35,11 +35,11 @@
           - `LinearRegressionByAge.jpg`
           - `LinearRegressionForBottoms.jpg`
           - `LinearRegressionForOlderAges.jpg`
-          - `CorrelationNegSentimentProduct.jpg`
+          - `CorrelationNegativeSentimentProduct.jpg`
       - `PositiveScores`: Folder containing figures from analysis on positive sentiment score data points
           - `BoxplotByAgeGroup.jpg`
           - `LinearRegressionByAge.jpg`
-          - `CorrelationPosSentimentProduct.jpg`
+          - `CorrelationPositiveSentimentProduct.jpg`
 
 ## Reproduction Information
 
