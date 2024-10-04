@@ -24,11 +24,11 @@
       - `SentimentScoreDistribution.jpg`
   - `MI3`: Folder containing pertinent figures from analysis
       - `AllSentimentScores`: Folder containing figures from analysis on all sentiment score data points
-          - `CorrelationMatrix.jpg`
+          - `Correlation Matrix for Numerical Variables in the Dataframe.png`
           - `CountReviewByAgeGroup.jpg`
           - `CountReviewsByProductType.jpg`
-          - `LinearRegressionAge.jpg`
-          - `LinearRegressionSentimentScore.jpg`
+          - `Linear Regression of Sentment Score on Age.png`
+          - `Linear Regression of Sentiment Score on Review Length.png`
       - `NegativeScores`: Folder containing figures from analysis on negative sentiment score data points
           - `BoxplotByAgeGroup.jpg`
           - `BoxplotByProductType.jpg`
