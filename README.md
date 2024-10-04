@@ -20,8 +20,8 @@
   - `MI2_EDA`: Folder containing pertinent figures from EDA
       - `AgeDistribution.jpg`
       - `NumberOfReviewsPerProductType.jpg`
-      - `SentimentScoreByAgeGroup.jpg`
-      - `SentimentScoreDistribution.jpg`
+      - `Average Sentiment Score by Age Group.png`
+      - `Distribution of Sentiment Scores.png`
   - `MI3`: Folder containing pertinent figures from analysis
       - `AllSentimentScores`: Folder containing figures from analysis on all sentiment score data points
           - `Correlation Matrix for Numerical Variables in the Dataframe.png`
