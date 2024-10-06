@@ -1,7 +1,7 @@
 ## Software and Platform
 
 - **Software**: Google Colab
-- **Add-on package**: VADER package
+- **Add-on package**: VADER, Pandas, Numpy, Matplotlib, Seaborn
 - **Platform**: Mac
 
 ## Documentation Map
